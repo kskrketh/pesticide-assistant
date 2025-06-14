@@ -1,5 +1,4 @@
 import React from 'react';
-
 export const Input = ({ value, onChange, placeholder, className }) => {
   return (
     <input
